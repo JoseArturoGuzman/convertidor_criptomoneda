@@ -20,7 +20,7 @@ const List<String> currentList = [
   "SEK",
   "SGD",
   "USD",
- "ZAR"
+  "ZAR"
 
 ];
 
