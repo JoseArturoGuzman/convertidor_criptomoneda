@@ -26,6 +26,6 @@ const List<String> currentList = [
 
 const List<String> criptoList = [
   "BTC",
-  "ETB",
+  "ETH",
   "LTC"
 ];
